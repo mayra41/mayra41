@@ -1,16 +1,15 @@
-## Hi there 👋
+Meu nome é mayra
 
-<!--
-**mayra41/mayra41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Estou estudando na Alura
+-Estou me desenvolvendo na linguagem JavaScript
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+-Você pode entrar em contato comigo 📫
+-00001124076086sp@aluno.educacao.sp.gov.br
+-@mayra1453
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image](https://github.com/user-attachments/assets/4b2ee1fa-d69e-478f-af21-a96739e9dae7)
+
+
+
+
